@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "efidevp.h": "c",
+        "efi.h": "c",
+        "uefi.h": "c"
+    }
+}

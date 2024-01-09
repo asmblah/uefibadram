@@ -1,0 +1,4 @@
+/.posix-uefi
+/uefi
+/uefibadram.efi
+/uefibadram.o
